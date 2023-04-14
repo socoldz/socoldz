@@ -1,0 +1,16 @@
+Mercedes 320
+Toyota Camry
+Mercedes S-Class
+Toyota Corolla
+Mercedes E-Class
+Toyota RAV4
+Mercedes CLA-Class
+Toyota Highlander
+Mercedes GLC-Class
+Toyota Prius
+BMW 3 Series
+Toyota Yaris
+BMW 5 Series
+Toyota Supra
+BMW 7 Series
+Toyota Land Cruiser
